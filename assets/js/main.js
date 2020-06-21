@@ -1,12 +1,12 @@
 
 const pools = [
-  {"pgo": "http://letshash.it:8117/stats"},
-  {"cico": "http://letshash.it:8007/stats"},
-  {"cirq": "http://letshash.it:8002/stats"},
-  {"klr": "http://letshash.it:8112/stats"},
-  {"stch": "http://letshash.it:8003/stats"},
-  {"tsx": "http://letshash.it:8006/stats"},
-  {"xuni": "http://letshash.it:8120/stats"}
+  {"pgo": "https://letshash.it:8117/stats"},
+  {"cico": "https://letshash.it:8007/stats"},
+  {"cirq": "https://letshash.it:8002/stats"},
+  {"klr": "https://letshash.it:8112/stats"},
+  {"stch": "https://letshash.it:8003/stats"},
+  {"tsx": "https://letshash.it:8006/stats"},
+  {"xuni": "https://letshash.it:8120/stats"}
 ];
 
 (function($) {
