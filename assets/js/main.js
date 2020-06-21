@@ -1,9 +1,3 @@
-/**
-* Template Name: Rapid - v2.2.0
-* Template URL: https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 const pools = [
   {"pgo": "http://letshash.it:8117/stats"},
